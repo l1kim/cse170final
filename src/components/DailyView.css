@@ -1,0 +1,52 @@
+.daily-view {
+    padding: 20px;
+    background: white; /* White background for the daily view */
+    margin: 0 auto;
+    max-width: 90%;
+    height: 70vh; /* Adjust to leave more brown space around */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .daily-view h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #4F3D34; /* Dark brown for text to maintain calm feel */
+  }
+  
+  button {
+    background-color: #BC5F6A; /* Accent Color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #D87C84; /* Slightly lighter accent color */
+  }
+  
+  .events-list {
+    margin-top: 20px;
+    text-align: left;
+    height: calc(70vh - 150px); /* Adjust to fill screen while leaving space for header */
+    overflow-y: auto;
+  }
+  
+  .event {
+    background-color: #92A662; /* Base Color */
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    color: white;
+  }
+  
+  .event:hover {
+    background-color: #BC5F6A; /* Accent Color */
+  }
+  
