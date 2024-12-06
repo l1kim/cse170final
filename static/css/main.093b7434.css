@@ -1,2 +1,0 @@
-body{background-color:#f5f5f5;margin:0;padding:0}.calendar{background-color:#fff;border-radius:5px;box-shadow:0 4px 8px #0000001a;margin:0 auto;max-width:400px;padding:10px}.month{font-size:1.5em;font-weight:700;margin-bottom:10px}.days-container{grid-gap:5px;display:grid;gap:5px;grid-template-columns:repeat(7,1fr)}.day{background-color:#e3e3e3;border-radius:3px;font-size:1em;font-weight:700;padding:10px}.App,.day{text-align:center}.App{font-family:Arial,sans-serif;margin:20px}h1{color:#333}
-/*# sourceMappingURL=main.093b7434.css.map*/
