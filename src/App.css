@@ -1,9 +1,11 @@
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
   margin: 0;
   padding: 0;
   background-color: #4F3D34; /* Brown background */
-  color: #4F3D34; /* White text */
+  color: #4f3d34ce; /* White text */
   min-height: 100vh; /* Ensure the body fills the entire screen */
   display: flex;
   flex-direction: column;
@@ -18,18 +20,19 @@ body {
 header {
   background-color: #4F3D34; /* Accent Color */
   color: white;
-  padding: 20px;
+  padding: 0px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   width: 100%;
 }
 
 header h1 {
   margin: 0;
-  font-size: 1.8em;
+  font-size: 32 px;
+  font-weight: bold;
 }
 
 nav {
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 nav button {
@@ -37,8 +40,8 @@ nav button {
   color: white;
   border: none;
   border-radius: 5px;
-  padding: 10px 15px;
-  margin: 0 5px;
+  padding: 10px 50px;
+  margin: 0 7px;
   cursor: pointer;
   font-size: 1em;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
@@ -47,4 +50,8 @@ nav button {
 
 nav button:hover {
   background-color: #BC5F6A; /* Accent Color */
+}
+
+em {
+  font-style: italic;
 }

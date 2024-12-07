@@ -1,21 +1,21 @@
 .monthly-view {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 5px;
-    padding: 20px;
-    background: white; /* White background for the calendar */
+    gap: 10px;
+    padding:20px;
+    background: #4f3d34ce; /* White background for the calendar */
     margin: 0 auto;
-    max-width: 90%;
-    height: 70vh; /* Adjusts to fit the screen but allows more brown space around */
+    max-width: 100%;
+    height: 100vh; /* Adjusts to fit the screen but allows more brown space around */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
   }
   
   .day {
     background: #92A662; /* Base Color */
-    color: white;
+    color: #4f3d34ce;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 10px;
     text-align: center;
     font-size: 0.9em;

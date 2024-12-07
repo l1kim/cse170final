@@ -3,7 +3,7 @@
     justify-content: space-around;
     align-items: stretch;
     padding: 20px;
-    background: white; /* White background for the weekly view */
+    background: #4f3d34ce; /* White background for the weekly view */
     margin: 0 auto;
     max-width: 90%;
     height: 70vh; /* Adjust to allow more of the brown background around it */

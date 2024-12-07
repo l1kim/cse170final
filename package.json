@@ -1,7 +1,7 @@
 {
   "name": "new-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/l1kim/cse170final.git",
+  "homepage": "https://l1kim.github.io/cse170final/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
