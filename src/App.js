@@ -24,6 +24,7 @@ function App() {
     <div className="App">
       <header>
         <h1>My Scheduler</h1>
+        <h3>December</h3>
         <nav>
           <button onClick={() => setView("monthly")}>Monthly View</button>
           <button onClick={() => setView("weekly")}>Weekly View</button>
