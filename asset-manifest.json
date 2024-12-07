@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/l1kim/cse170final.git/static/css/main.81fb7668.css",
-    "main.js": "/l1kim/cse170final.git/static/js/main.70c93368.js",
-    "index.html": "/l1kim/cse170final.git/index.html",
-    "main.81fb7668.css.map": "/l1kim/cse170final.git/static/css/main.81fb7668.css.map",
-    "main.70c93368.js.map": "/l1kim/cse170final.git/static/js/main.70c93368.js.map"
+    "main.css": "/cse170final/static/css/main.c514f933.css",
+    "main.js": "/cse170final/static/js/main.70c93368.js",
+    "index.html": "/cse170final/index.html",
+    "main.c514f933.css.map": "/cse170final/static/css/main.c514f933.css.map",
+    "main.70c93368.js.map": "/cse170final/static/js/main.70c93368.js.map"
   },
   "entrypoints": [
-    "static/css/main.81fb7668.css",
+    "static/css/main.c514f933.css",
     "static/js/main.70c93368.js"
   ]
 }
